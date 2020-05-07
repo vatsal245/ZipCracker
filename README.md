@@ -1,4 +1,4 @@
 # ZipCracker
-ZipCracker if a python script to bruteforce encrypted zip fies.
+ZipCracker is a python script to bruteforce encrypted zip fies.
 
 NOTE:THIS SCRIPT IS ONLY FOR EDUCATIONAL PURPOSES, I DON,T TAKE ANY RESPONSIBLITY OF WHAT YOU DO WITH THIS SCRIPT.
